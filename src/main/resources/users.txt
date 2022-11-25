@@ -1,0 +1,5 @@
+name=smpptest
+password=smpptest
+# And this timeout is in minutes, bad luck, smpptest %^)
+timout=1
+
